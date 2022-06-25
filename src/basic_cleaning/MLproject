@@ -14,7 +14,7 @@ entry_points:
         type: string
 
       output_type:
-        description:clean_sample ## ADD DESCRIPTION
+        description: clean_sample ## ADD DESCRIPTION
         type: string
 
       output_description:
@@ -22,11 +22,11 @@ entry_points:
         type: string
 
       min_price:
-        description:Minimum threshold below which it is  considered as outlier ## ADD DESCRIPTION
+        description: Minimum threshold below which it is  considered as outlier ## ADD DESCRIPTION
         type: int
 
       max_price:
-        description:Maximum threshold above which it is considered as outlier ## ADD DESCRIPTION
+        description: Maximum threshold above which it is considered as outlier ## ADD DESCRIPTION
         type: int
 
 
